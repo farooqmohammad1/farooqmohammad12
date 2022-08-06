@@ -1,0 +1,7 @@
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://farooqmohammad1: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@github.com/farooqmohammad1/farooqprofile1.git
+git push -u origin main
+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

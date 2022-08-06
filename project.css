@@ -1,0 +1,97 @@
+body{
+    margin:auto;
+}
+header{
+    height:85px;
+   /* border:5px groove blue;*/
+    background-color: lightgreen;
+}
+a{
+    text-decoration: none;
+}
+#brand{
+    font-size: 40px;
+    float: left;
+    margin-top: 25px;
+    margin-left: 9px;
+}
+#social{
+    margin-top: 25px;
+    margin-right:2%;
+}
+.imagesize{
+    height:40px;
+    float:right;
+    border-radius: 20%;
+    margin: 3px;
+    margin-top: 20PX;
+}
+#search{
+    height:500px;
+    
+    /*border:5px solid blue;*/
+    background-image: url('homepage.jpg');
+    background-size: 100% 500px;
+}
+#logo{
+   
+    height:190px;
+    width:190px;
+    border-radius: 50%;
+    margin-top: 50px;
+    margin-left: 48%;
+    position: absolute;
+    background-color: white;
+    font-size: 40px;
+}
+#logo >span{
+    position: absolute;
+    margin-top: 22%;
+    margin-left: 56px;
+    font-size: 90px;
+
+
+}
+#heading{
+    position: absolute;
+    font-size: 60px;
+    margin-top: 20%;
+    margin-left: 370px;
+    color: white;
+}
+#dropdown{
+    height:30px;width:54%;
+    /*border:2px groove white;*/
+    position: absolute;
+    margin-top: 27%;
+    margin-left: 380px;
+}
+select{
+    width:41%;
+    height:40px;
+}
+#rest{
+    height: 40px;
+    width:58%
+}
+#quickSearch{
+    height:500px;
+    width:80%;
+    /*border:5px double blue;*/
+    margin-left: 10%;
+}
+#qheading{
+    font-size: 30px;
+    margin-left: 2%;
+    display: block;
+}
+#qsubheading{
+    font-size: 30px;
+    display: block;
+    margin-left: 2%;
+    line-height: 44px;
+}
+footer{
+    height:200px;
+    border:5px groove blue;
+}

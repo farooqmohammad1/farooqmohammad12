@@ -1,0 +1,31 @@
+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
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/farooqmohammad1/farooqprofile.git
+git push -u origin main
+(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)
+
+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
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://farooqmohammad1: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@github.com/farooqmohammad1/farooqprofile.git
+git push -u origin main
+
+
+…or create a new repository on the command line
+echo "# farooqprofile2" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/farooqmohammad1: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@github.com/farooqprofile2.git
+git push -u origin main
+…or push an existing repository from the command line
+git remote add origin https://github.com/farooqmohammad1/farooqprofile2.git
+git branch -M main
+git push -u origin main

@@ -1,0 +1,57 @@
+.card{
+    height:400px;
+    width:20%;
+    background-color: aquamarine;
+    float:left;
+    margin:2%;
+
+}
+.card img{
+    height:200px;
+    width:100%;
+}
+#main{
+    background-color: #b98422;
+    margin-left:1%;
+    margin-right: 1%;
+    display:inline-block;
+    
+}
+.skyblue{
+    background-color: aqua;
+}
+.grey{
+    background-color: #808080;
+}
+.purple{
+    background-color:purple
+}
+.blue{
+    background-color: blue;
+}
+
+#sub{
+    
+    width: 98%;
+    background-color: olive;
+    margin-left: 1%;
+    margin-right: 2%;
+    
+    
+    height:500px;
+}
+
+#sp{
+    
+    
+}
+#image >img{
+    height:500px;
+    width:40%;
+    float:left;
+}
+#par{
+    width:55%;
+    float:left;
+    background-color: olive;
+}
